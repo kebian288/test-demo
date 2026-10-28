@@ -16,7 +16,7 @@ namespace Tuan1HDH
         public Form1()
         {
             InitializeComponent();
-
+            //TEST
             DisplayProcess();
         }
         private void btnBrowse_Click(object sender, EventArgs e)
