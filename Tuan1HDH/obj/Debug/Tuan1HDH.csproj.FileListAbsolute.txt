@@ -1,0 +1,11 @@
+D:\Tuan1HDH\bin\Debug\Tuan1HDH.exe.config
+D:\Tuan1HDH\bin\Debug\Tuan1HDH.exe
+D:\Tuan1HDH\bin\Debug\Tuan1HDH.pdb
+D:\Tuan1HDH\obj\Debug\Tuan1HDH.csproj.AssemblyReference.cache
+D:\Tuan1HDH\obj\Debug\Tuan1HDH.Form1.resources
+D:\Tuan1HDH\obj\Debug\Tuan1HDH.Properties.Resources.resources
+D:\Tuan1HDH\obj\Debug\Tuan1HDH.csproj.GenerateResource.cache
+D:\Tuan1HDH\obj\Debug\Tuan1HDH.csproj.CoreCompileInputs.cache
+D:\Tuan1HDH\obj\Debug\Tuan1HDH.exe
+D:\Tuan1HDH\obj\Debug\Tuan1HDH.pdb
+D:\Tuan1HDH\obj\Debug\Tuan1HDH.exe.config
